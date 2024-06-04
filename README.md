@@ -1,5 +1,11 @@
 # 🌐 EVE-NG Labs Catalog
 
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/eve-ng-labs?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/eve-ng-labs?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/eve-ng-labs?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/eve-ng-labs.svg?cache=remove)
+
+
 Welcome to the **EVE-NG Labs Catalog**! This repository is a comprehensive collection of network simulation labs designed for network engineers, students, and professionals who want to enhance their skills in routing, switching, and firewall technologies. These labs utilize EVE-NG (Emulated Virtual Environment - Next Generation) to provide a hands-on, practical learning experience.
 
 ## 🔧 Lab Categories
